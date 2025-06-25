@@ -15,7 +15,7 @@ import pandas as pd
 import time
 
 # Configure your Google GenAI API key
-client = genai.Client(api_key="AIzaSyAkh_wm-uk3ysT12fHNWg3VmGWIPapuAS8")
+client = genai.Client(api_key="GOOGLE_API_KEY")
 
 # Model identifier
 MODEL = "gemini-2.5-flash"
